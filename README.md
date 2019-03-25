@@ -1,6 +1,6 @@
 # Qoof Terraform Modules
 
-This Terraform module is responsible for provisioning qoofIAM resources(IAM trust/roles).
+This Terraform module is responsible for provisioning **qoof** IAM resources(IAM trust/roles).
 
 This module is considered a *Global* module and only needs to be provisioned 1 time per AWS Account.
 
