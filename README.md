@@ -14,7 +14,8 @@ module "qoof" {
   qoof_external_id        = "${var.qoof_external_id}"
 }
 ```
-## 👬 Contribution/Issue
+## 👬 Support
 - Open pull request with improvements
 - Discuss ideas in issues
+- Email: anmol@qoof.io
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/anmol_nagpal.svg?style=social&label=Follow%20%40anmol_nagpal)](https://twitter.com/anmol_nagpal)
